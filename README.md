@@ -8,7 +8,7 @@ A discord bot that muting people who flooding message, Written in Node.js
    - [dotenv](https://npmjs.com/dotenv)
 3. Create a file named `.env`, and Fill in:
 ```
-TOKEN=<Your Bot Token>
+TOKEN=<ODA1MzA2MDg4MTYxMTQ4OTYw.YBY9vQ.OwKW3avi5SgVeK8IaJ0KliTe0rQ>
 ```
 
 4. Start your discord anti flood bot by executing `node .`
